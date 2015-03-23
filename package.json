@@ -1,6 +1,6 @@
 {
   "name": "foundation-grunt-plate",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Boilerplate to start web development with Foundation",
   "main": "Gruntfile.js",
   "scripts": {

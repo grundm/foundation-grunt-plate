@@ -3,4 +3,6 @@ bower_components/
 build/
 src/js/vendor/
 src/scss/vendor/
-*.DS_Store
+.DS_Store
+.sass-cache
+npm-debug.log
